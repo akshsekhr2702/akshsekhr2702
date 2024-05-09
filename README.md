@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [NATASHA](https://mohdfaizan5.github.io/ai-personal-assistant/)
 
-- 🌱 I’m currently learning **JavaScript, Java, C++, C**
+- 🌱 I’m currently learning **JavaScript, Java, C**
 
 - 📫 How to reach me **akshyansunayak360985@gmail.com**
 
